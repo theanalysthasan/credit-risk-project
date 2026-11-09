@@ -1,0 +1,13 @@
+,value
+EAD,287962915.0
+Expected loss,12930109.383055465
+Loss std dev,4912427.6679359665
+VaR 99.5%,28315114.66344287
+Expected shortfall 99.5%,31312230.85740487
+Layer attachment (1.25 x EL),16162636.728819331
+Layer limit (to VaR 99.5%),12152477.934623538
+P(layer hit),0.2315
+Expected layer loss,866163.9055833109
+Reinsurance premium,1446114.9502969505
+Rate on line,0.11899753762784747
+Net std dev after cover,3453900.950590074
