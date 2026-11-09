@@ -14,7 +14,7 @@ Python · scikit-learn · XGBoost · Monte Carlo — framed for (re)insurance un
 ## Outputs
 `model_comparison.csv`, `risk_band_profitability.csv`, `purpose_profitability.csv`, `portfolio_and_reinsurance_summary.csv`, `loan_level_pricing.csv`, `logit_coefficients_standardised.csv`.
 
-## CV entry
+## Data analytical info 
 **Bank Credit Risk & Loan Default Prediction** | Python, scikit-learn, XGBoost
 - Built PD models (logistic regression, XGBoost; Gini 0.52) and expected-loss framework (PD × LGD × EAD) on a 60k-loan synthetic book.
 - Derived risk-based loan pricing and flagged the highest-risk band as loss-making under the current tariff.
